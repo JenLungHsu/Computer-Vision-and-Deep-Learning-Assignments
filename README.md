@@ -14,13 +14,13 @@ This repository contains the assignments for the **Computer Vision and Deep Lear
 You can directly access the presentation files and key Python scripts here:
 
 - **CVDL_hw1**
-  - [Presentation Slides](./CVDL_hw1/CvDl_Hw1_Q_20241025_V2B4.pdf)
-  - Main GUI: [GUI.py](./CVDL_hw1/GUI.py)
+  - Task Description: [Presentation Slides](./CVDL_hw1/CvDl_Hw1_Q_20241025_V2B4.pdf)
+  - Implementation: [GUI.py](./CVDL_hw1/GUI.py)
   - [Download Dataset](https://drive.google.com/drive/folders/1kseEuXFH4MRNuD4VaxjQiRR87asbI3CJ?usp=sharing)
 
 - **CVDL_hw2**
-  - [Presentation Slides](./CVDL_hw2/Cvdl_Hw_2_Q_20241212_V1B1.pdf)
-  - Main GUIs: [GUI_hw2.1.py](./CVDL_hw2/GUI_hw2.1.py), [GUI_hw2.2.py](./CVDL_hw2/GUI_hw2.2.py)
+  - Task Description: [Presentation Slides](./CVDL_hw2/Cvdl_Hw_2_Q_20241212_V1B1.pdf)
+  - Implementation: [GUI_hw2.1.py](./CVDL_hw2/GUI_hw2.1.py), [GUI_hw2.2.py](./CVDL_hw2/GUI_hw2.2.py)
   - [Download Pre-trained Weights](https://drive.google.com/drive/folders/1K9IRpo8amMC15TmdcztwW_Wy5-SHZo_L?usp=sharing)
 
 ---
